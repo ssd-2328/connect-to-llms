@@ -1,4 +1,4 @@
-# How to use Ollama to run LLMs locally
+# How to use Ollama to easily run LLMs locally
 
 Added different approaches using three various LLM models - llama3.2, OpenAI, deepseek-r1:1.5b
 
